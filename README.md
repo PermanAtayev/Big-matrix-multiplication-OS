@@ -1,4 +1,4 @@
-### Operating systems project 1
+### Operating systems project 1, CS342, Bilkent
 
 In this project, I developed a multi-process application that will perform matrix-vector multiplication for large matrices and vectors. More precisely, the application multiplies an nxn matrix M with a vector v of size n. 
 
